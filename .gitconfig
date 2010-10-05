@@ -1,0 +1,11 @@
+[user]
+  name = noid
+  email = insanerainoid@gmail.com
+[color]
+  ui = auto
+[alias]
+  co = checkout
+  st = status
+  br = branch
+  hist = log --pretty=format:\\\"%h %ad | %s%d [%an]\\\" --graph --date=short
+  ci = commit
